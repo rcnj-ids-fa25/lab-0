@@ -1,2 +1,5 @@
 # sta199-lab0
-Lab 0 repository template for STA 199 - Fall 2025
+
+This is repository only serves to help you practice cloning from GitHub during Lab 0.
+
+You do not have to do anything (e.g., commit, push, etc.) once you clone the repository.
